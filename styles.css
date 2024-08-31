@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+canvas {
+    margin: 20px 0;
+    max-width: 100%;
+    height: auto;
+}
